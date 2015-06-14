@@ -1,2 +1,2 @@
-此Git库为我的博客  [他说](http://xinzhang.info)。
+此Git库为我的博客  [他说](http://www.xinzhang.info)。
 

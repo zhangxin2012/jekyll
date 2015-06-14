@@ -4,10 +4,10 @@ layout: page
 comments: yes
 ---
   
-卢克进, 08年毕业于南京理工大学计算机学院.      
-熟练使用常见的计算机语言.      
-目前从事Mac,iOS开发相关工作.      
+张鑫, 08年毕业于湖南科技大学数学学院.      
+熟练使用java相关技术.关注互联网.      
+目前从事电商平台开发工作.      
 
-个人邮箱:kejinlu@gmail.com      
-新浪微博: [http://weibo.com/kejinlu](http://weibo.com/kejinlu)      
-github : [https://github.com/kejinlu](https://github.com/kejinlu)      
+个人邮箱:johnson_coding@163.com      
+新浪微博:     
+github : [https://github.com/zhangxin2012](https://github.com/zhangxin2012)      

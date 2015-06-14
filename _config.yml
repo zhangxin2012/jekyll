@@ -1,1 +1,6 @@
-baseurl: /
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://xinzhang.info
+author: 掌心
+pygments: true
+paginate: 24

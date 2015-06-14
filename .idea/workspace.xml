@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="585a7954-13a3-4299-b988-1fa9ecbc1e7c" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-21-blue.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-21-end.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-21-first-glance.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-21-flex-datagrid.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-21-i-am-not-a-poet.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-21-no-name.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-21-sigh.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-22-flex-reflection" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-22-flex-reflection.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-22-focusout-event.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-23-java-annotation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-24-layout-strategy.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-09-28-flex-associative-arrays.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-10-12-only-a-dream.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-10-14-flex-tree-dragdrophandler.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-10-15-the-first-quarter-in-alibaba.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-10-17-thinking-in-seam.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-10-21-flash-coordinate.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2008/2008-10-25-flex-rsl.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-01-19-ibatis-auto-generated-primary-key.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-02-17-numbers-in-javascript.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-03-03-javascript-prototype-chain.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-03-23-about-death.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-04-12-about-the-constructor-property-in-javascript.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-04-27-a-python-program.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-05-04-json-http_post-encoding-with-python.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-05-06-regular-expression-in-python.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-05-17-first-look-at-non-thread-safe-servlets.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-06-05-cx_oracle.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-09-09-about-form-get-post.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-12-03-dive-into-the-charset-of-java.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2009/2009-12-23-public-key-cryptography.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-06-05-git-internals.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-06-07-using-ssh-for-passwordless-remote-login.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-06-09-joel-on-software.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-06-10-continuous-monitor-tail-fails.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-06-16-how-to-open-a-url-in-another-application.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-06-26-jsch-pure-java-implementation-of-ssh2.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-07-07-cometd-jetty-continuations.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-07-10-asynchronous-web.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-07-14-jsonp.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-07-19-fail-fast.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-07-21-hash-table.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-07-22-java-hashmap.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-07-27-tomcat-upgrade.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-07-28-concurrenthashmap.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-07-31-advanced-linux-notes.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-10-14-henplus-a-jdbc-sql-shell.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-10-19-getting-started-with-npapi-plugin.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-10-19-plugin-vs-extension.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-11-02-the-essence-of-science.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2010/2010-12-05-derby-database.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011/2011-01-01-start-application-from-url-talk-about-wangwang.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011/2011-01-13-check-memory-with-cron-job.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011/2011-03-31-ieee754-floating-point-arithmetic.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011/2011-06-04-nsimage-imagenamed.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011/2011-06-14-jenkins-ci-used-for-mac-app-dev.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011/2011-06-14-sqlite-autoincrement.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011/2011-07-13-about-field-editor.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011/2011-08-05-mac-multi-display-screen-crop.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011/2011-08-09-nscell-copywithzone.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011/2011-10-17-swatch-timer.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2011/2011-10-25-iphone-cgbi-png-format.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-01-19-block.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-01-19-ios-persistence.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-01-31-macios-socket.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-02-03-bonjour.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-02-12-thread.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-04-15-blog-with-jekyll-and-github.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-05-16-custom-container-view-controller.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-05-18-life-before-arc.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-06-07-image-slicing-for-ios-app.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-06-22-3d-coordinate-system.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-07-08-ios-3d-perspective.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-08-19-interface-orientations.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-09-20-uiwebview-subviews.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-09-21-sku.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-09-26-animation-in-ios.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012/2012-10-09-gitosis.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013/2013-03-11-core-text.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013/2013-03-20-seek-differences.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013/2013-03-25-web.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013/2013-04-02-ios-cookie.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013/2013-04-19-git-keynote.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013/2013-04-26-git-reflog.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013/2013-05-09-git-revisions.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013/2013-05-25-discourse-install-guide.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013/2013-06-23-cocoapods-101.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2013/2013-06-23-git-fork-workflow.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014/2014-02-10-objc-lib.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014/2014-05-08-custom-container-view-controller.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2014/2014-05-22-facebook-pop-usage.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2015-06-11-hello.html" afterPath="" />
+    </list>
+    <ignored path="jekyll.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="jekyll" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.2.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="709" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jekyll" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="Errors" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

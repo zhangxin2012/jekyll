@@ -18,14 +18,41 @@
     <div id="container">
       <div id="main" role="main">
         <header>
-        <div class="buttons">
-          <a href="/" class="ss-icon" title="Go to homepage">home</a>
-          <a href="/categories" class="ss-icon" title="Category" >list</a>
-          <a href="/tags" class="ss-icon" title="Tag Cloud" >tags</a>
-          <a href="/guestbook" class="ss-icon" title="Guest Book" >talk</a>
-          <a href="/about" class="ss-icon" title="About" >user</a>
-          <a href="/feed" class="ss-icon" title="Subscribe by RSS" >rss</a>
-        </div>
+        <ul id="menu" class="menu">
+      <li class="menu-item menu-item-home">
+        <a href="/">
+          <i class="menu-item-icon icon-home"></i> <br />
+          首页
+        </a>
+      </li>
+      <li class="menu-item menu-item-categories">
+        <a href="/categories">
+          <i class="menu-item-icon icon-categories"></i> <br />
+          分类
+        </a>
+      </li>
+      <li class="menu-item menu-item-archives">
+        <a href="/archives">
+          <i class="menu-item-icon icon-archives"></i> <br />
+          归档
+        </a>
+      </li>
+      <li class="menu-item menu-item-tags">
+        <a href="/tags">
+          <i class="menu-item-icon icon-tags"></i> <br />
+          标签
+        </a>
+      </li>
+    
+      
+      <li class="menu-item menu-item-about">
+        <a href="/about">
+          <i class="menu-item-icon icon-about"></i> <br />
+          关于
+        </a>
+      </li>
+    
+  </ul>
         <h1>{{ page.title }}</h1>
         </header>
         <hr>
